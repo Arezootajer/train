@@ -1,0 +1,30 @@
+
+body{
+	background-color: gray; 
+}
+.addtrain{
+	width:800px;
+	margin-left: 300px;
+	border:2px,solid, black;
+}
+
+#trainData{
+	width:800px;
+	margin-left: 300px;
+	border:2px,solid, black;
+}
+ .jumbotron{
+              background-color: lightgreen;
+              color:black;
+            }
+            
+
+  table tr th{
+            	background-color:lightgray;
+
+            }
+  
+  #header{
+  	background-color: lightblue;
+  	font-weight: bold;
+  }
